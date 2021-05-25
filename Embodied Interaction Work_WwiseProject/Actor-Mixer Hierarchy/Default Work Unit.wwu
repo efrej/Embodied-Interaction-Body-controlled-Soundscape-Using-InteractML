@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{B4D459DD-5BD7-4CAB-ABA3-1097370223F3}" SchemaVersion="103">
+	<AudioObjects>
+		<WorkUnit Name="Default Work Unit" ID="{B4D459DD-5BD7-4CAB-ABA3-1097370223F3}" PersistMode="Standalone">
+			<ChildrenList>
+				<Sound Name="Impact" ID="{A4236629-9F75-48FE-8524-7360CAAAB500}" ShortID="927264259">
+					<ReferenceList>
+						<Reference Name="Conversion">
+							<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{4B2D9BA9-3ED4-4472-A06A-6662DA292523}"/>
+						</Reference>
+						<Reference Name="OutputBus">
+							<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{6B5FBE1D-6953-4AF4-A1DD-603669441849}"/>
+						</Reference>
+					</ReferenceList>
+					<ChildrenList>
+						<AudioFileSource Name="TrTrap2_-_FX-Impact_-_064" ID="{AEEA187C-52E2-4387-9998-C9C630B577FE}">
+							<Language>SFX</Language>
+							<AudioFile>TrTrap2_-_FX-Impact_-_064.wav</AudioFile>
+							<MediaIDList>
+								<MediaID ID="458603385"/>
+							</MediaIDList>
+						</AudioFileSource>
+					</ChildrenList>
+					<ObjectLists/>
+					<ActiveSourceList>
+						<ActiveSource Name="TrTrap2_-_FX-Impact_-_064" ID="{AEEA187C-52E2-4387-9998-C9C630B577FE}" Platform="Linked"/>
+					</ActiveSourceList>
+				</Sound>
+			</ChildrenList>
+		</WorkUnit>
+	</AudioObjects>
+</WwiseDocument>

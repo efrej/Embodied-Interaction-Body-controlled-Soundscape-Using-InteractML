@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{64548EC9-114B-4674-8BD1-DECE9D361EE9}" SchemaVersion="103">
+	<Events>
+		<WorkUnit Name="Default Work Unit" ID="{64548EC9-114B-4674-8BD1-DECE9D361EE9}" PersistMode="Standalone">
+			<ChildrenList>
+				<Event Name="Play_MasterTrack" ID="{82AF5361-BD67-429D-A635-BF3CB2BE8C39}">
+					<ChildrenList>
+						<Action Name="" ID="{298844EF-5171-403D-9115-3EF0046E51B5}" ShortID="53016506">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="MasterTrack" ID="{1E41CB34-3402-4B68-92AB-D8E58F980760}" WorkUnitID="{4B1D6C8E-929F-4B1C-8443-521FF6D86D67}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Play_Impact" ID="{053412D7-67B4-4075-9A0E-EA3695191A32}">
+					<ChildrenList>
+						<Action Name="" ID="{392CB16D-4D2F-4AA5-A8A3-D06E32968AAA}" ShortID="708108358">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Impact" ID="{A4236629-9F75-48FE-8524-7360CAAAB500}" WorkUnitID="{B4D459DD-5BD7-4CAB-ABA3-1097370223F3}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+			</ChildrenList>
+		</WorkUnit>
+	</Events>
+</WwiseDocument>

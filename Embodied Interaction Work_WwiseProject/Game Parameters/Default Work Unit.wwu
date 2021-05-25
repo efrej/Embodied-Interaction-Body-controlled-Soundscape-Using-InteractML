@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{2CB9DA8D-343D-47AD-87DC-E0FE50BEA20F}" SchemaVersion="103">
+	<GameParameters>
+		<WorkUnit Name="Default Work Unit" ID="{2CB9DA8D-343D-47AD-87DC-E0FE50BEA20F}" PersistMode="Standalone">
+			<ChildrenList>
+				<GameParameter Name="sawCutoff" ID="{1BCB1309-464A-4E83-AEAD-1401847BE86C}"/>
+				<GameParameter Name="masterCutoff" ID="{1CB8FDBD-C6CC-4EBC-A7B2-431594B50F2B}"/>
+				<GameParameter Name="pluckTimestretch" ID="{2E195AD5-286D-4A4C-B33B-C23DAF8EE792}"/>
+			</ChildrenList>
+		</WorkUnit>
+	</GameParameters>
+</WwiseDocument>
